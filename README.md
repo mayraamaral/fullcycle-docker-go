@@ -7,6 +7,8 @@ Run the code below in the terminal and see the results :)
 docker run --rm --name hello-go mayraamaral/fullcycle-docker-go:latest .
 ```  
   
+Link in Docker Hub: [mayraamaral/fullcycle-docker-go](https://hub.docker.com/r/mayraamaral/fullcycle-docker-go)  
+  
  ## References
  - Full Cycle course
  - [Go installation docs](https://go.dev/doc/install)
